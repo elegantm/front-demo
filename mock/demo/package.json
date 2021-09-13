@@ -1,0 +1,7 @@
+{
+    "type": "module",
+    "dependencies": {
+        "faker": "^5.5.3",
+        "lowdb": "^2.1.0"
+    }
+}
